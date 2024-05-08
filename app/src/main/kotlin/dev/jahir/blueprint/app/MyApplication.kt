@@ -1,6 +1,7 @@
 package dev.jahir.blueprint.app
 
 import dev.jahir.frames.ui.FramesApplication
+import theme.iconpack.grow.BuildConfig
 
 // TODO: Remove comment marks to enable
 // import com.onesignal.OneSignal

@@ -1,7 +1,9 @@
 package dev.jahir.blueprint.app
 
 import com.github.javiersantos.piracychecker.PiracyChecker
+import theme.iconpack.grow.R
 import dev.jahir.blueprint.ui.activities.BottomNavigationBlueprintActivity
+import theme.iconpack.grow.BuildConfig
 
 /**
  * You can choose between:
