@@ -1,9 +1,9 @@
 package dev.jahir.blueprint.app
 
 import com.github.javiersantos.piracychecker.PiracyChecker
-import theme.iconpack.grow.R
+import dev.tang.with.you.R
 import dev.jahir.blueprint.ui.activities.BottomNavigationBlueprintActivity
-import theme.iconpack.grow.BuildConfig
+import dev.tang.with.you.BuildConfig
 
 /**
  * You can choose between:
@@ -36,8 +36,7 @@ class MainActivity : BottomNavigationBlueprintActivity() {
      * Return null to disable license check
      */
     override fun getLicenseChecker(): PiracyChecker? {
-        destroyChecker() // Important
-        return if (BuildConfig.DEBUG) null else super.getLicenseChecker()
+        return null
     }
 
     override fun defaultTheme(): Int = R.style.MyApp_Default
