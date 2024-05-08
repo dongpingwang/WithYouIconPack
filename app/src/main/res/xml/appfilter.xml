@@ -2,6 +2,18 @@
 <resources>
 
     <item
+        component="ComponentInfo{com.orz12.PiliPalaX/com.orz12.PiliPalaX.MainActivity}"
+        drawable="pilipalax" />
+
+    <item
+        component="ComponentInfo{com.guozhigq.pilipala/com.ryanheise.audioservice.AudioServiceActivity}"
+        drawable="pilipala" />
+
+    <item
+        component="ComponentInfo{com.a10miaomiao.bilimiao/com.a10miaomiao.bilimiao.MainActivity}"
+        drawable="bilimiao" />
+
+    <item
         component="ComponentInfo{cn.nubia.browser/com.android.browser.BrowserLauncher}"
         drawable="browser" />
 
@@ -21506,10 +21518,6 @@
         drawable="video" />
 
     <item
-        component="ComponentInfo{com.coloros.yoli/com.heytap.yoli.icon_org}"
-        drawable="video" />
-
-    <item
         component="ComponentInfo{com.coloros.wallet/com.nearme.wallet.SplashActivity}"
         drawable="wallet" />
 
@@ -21844,6 +21852,10 @@
     <item
         component="ComponentInfo{com.coloros.soundrecorder/oppo.multimedia.soundrecorder.filebrowser.BrowseFile}"
         drawable="sound_recorder" />
+
+    <item
+        component="ComponentInfo{com.coloros.soundrecorder/com.soundrecorder.browsefile.BrowseFile}"
+        drawable="mi_screenrecorder" />
 
     <item
         component="ComponentInfo{com.google.android.apps.recorder/com.google.android.apps.recorder.ui.recordings.LauncherActivity}"
@@ -28148,10 +28160,6 @@
     <item
         component="ComponentInfo{com.ct.client/com.ct.client.activity.SplashActivity}"
         drawable="ct" />
-
-    <item
-        component="ComponentInfo{bin.mt.plus/bin.mt.plus.MainLightIcon}"
-        drawable="mt_manager" />
 
     <item
         component="ComponentInfo{bin.mt.plus/bin.mt.plus.MainLightIcon}"

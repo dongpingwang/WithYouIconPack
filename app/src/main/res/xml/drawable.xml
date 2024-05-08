@@ -1186,6 +1186,15 @@
         title="All" />
 
     <item
+        drawable="pilipalax" />
+
+    <item
+        drawable="pilipala" />
+
+    <item
+        drawable="bilimiao" />
+
+    <item
         drawable="a2sd" />
 
     <item

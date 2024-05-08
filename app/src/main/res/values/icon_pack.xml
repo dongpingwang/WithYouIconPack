@@ -19,9 +19,11 @@
         <item>magisk</item>
         <item>market</item>
         <item>mi_notes</item>
+        <item>notes</item>
         <item>mi_screenrecorder</item>
         <item>mi_service</item>
         <item>mi_video</item>
+        <item>video</item>
         <item>mt_manager</item>
         <item>net_ease_music</item>
         <item>phone</item>
@@ -33,6 +35,9 @@
         <item>wechat_2</item>
         <item>xiaohongshu</item>
         <item>xingtu</item>
+        <item>bilimiao</item>
+        <item>pilipala</item>
+        <item>pilipalax</item>
     </string-array>
 
     <!-- These sections below are for your "Previews" section -->
@@ -65,9 +70,11 @@
         <item>magisk</item>
         <item>market</item>
         <item>mi_notes</item>
+        <item>notes</item>
         <item>mi_screenrecorder</item>
         <item>mi_service</item>
         <item>mi_video</item>
+        <item>video</item>
         <item>mt_manager</item>
         <item>net_ease_music</item>
         <item>phone</item>
@@ -79,6 +86,9 @@
         <item>wechat_2</item>
         <item>xiaohongshu</item>
         <item>xingtu</item>
+        <item>bilimiao</item>
+        <item>pilipala</item>
+        <item>pilipalax</item>
     </string-array>
 
     <string-array name="shop">
