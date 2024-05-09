@@ -43,6 +43,7 @@
         <item>flyme_notes</item>
         <item>flyme7_video</item>
         <item>flyme_mcare</item>
+        <item>samsung_notes</item>
     </string-array>
 
     <!-- These sections below are for your "Previews" section -->
@@ -99,6 +100,7 @@
         <item>flyme_notes</item>
         <item>flyme7_video</item>
         <item>flyme_mcare</item>
+        <item>samsung_notes</item>
     </string-array>
 
     <string-array name="shop">
