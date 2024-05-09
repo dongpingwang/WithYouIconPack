@@ -1178,6 +1178,10 @@
         drawable="sound_recorder" />
 
     <item
+        component="ComponentInfo{com.android.soundrecorder/com.android.soundrecorder.activity.MzRecorderActivity}"
+        drawable="sound_recorder" />
+
+    <item
         component="ComponentInfo{com.android.soundrecorder/com.android.soundrecorder.SoundRecorder}"
         drawable="sound_recorder" />
 

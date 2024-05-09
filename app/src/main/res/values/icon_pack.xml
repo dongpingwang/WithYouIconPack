@@ -38,6 +38,11 @@
         <item>bilimiao</item>
         <item>pilipala</item>
         <item>pilipalax</item>
+        <item>market_flyme7</item>
+        <item>sound_recorder</item>
+        <item>flyme_notes</item>
+        <item>flyme7_video</item>
+        <item>flyme_mcare</item>
     </string-array>
 
     <!-- These sections below are for your "Previews" section -->
@@ -89,6 +94,11 @@
         <item>bilimiao</item>
         <item>pilipala</item>
         <item>pilipalax</item>
+        <item>market_flyme7</item>
+        <item>sound_recorder</item>
+        <item>flyme_notes</item>
+        <item>flyme7_video</item>
+        <item>flyme_mcare</item>
     </string-array>
 
     <string-array name="shop">
