@@ -1,5 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <item
+        component="ComponentInfo{com.samsung.android.samsungpay.gear/com.samsung.android.samsungpay.gear.ui.SpayMainActivity}"
+        drawable="samsungpay_gear" />
 
     <item
         component="ComponentInfo{com.orz12.PiliPalaX/com.orz12.PiliPalaX.MainActivity}"
@@ -838,10 +841,6 @@
         drawable="health" />
 
     <item
-        component="ComponentInfo{com.sec.android.app.shealth/com.samsung.android.app.shealth.home.HomeMainActivity}"
-        drawable="health" />
-
-    <item
         component="ComponentInfo{com.zui.zhealthy/com.zui.zhealthy.SplashActivity}"
         drawable="health" />
 
@@ -1198,10 +1197,6 @@
         drawable="sound_recorder" />
 
     <item
-        component="ComponentInfo{com.sec.android.app.voicenote/com.sec.android.app.voicenote.main.VNMainActivity}"
-        drawable="sound_recorder" />
-
-    <item
         component="ComponentInfo{com.smartisanos.recorder/com.smartisanos.recorder.activity.EmptyActivity}"
         drawable="sound_recorder" />
 
@@ -1287,7 +1282,7 @@
 
     <item
         component="ComponentInfo{com.bbk.appstore/com.bbk.appstore.ui.AppStore}"
-        drawable="market" />
+        drawable="vivo_market" />
 
     <item
         component="ComponentInfo{com.htcmarket/com.htc.android.sense.activity.HelpActivity}"
@@ -1315,7 +1310,7 @@
 
     <item
         component="ComponentInfo{com.sec.android.app.samsungapps/com.sec.android.app.samsungapps.SamsungAppsMainActivity}"
-        drawable="market" />
+        drawable="samsung_market" />
 
     <item
         component="ComponentInfo{com.smartisanos.appstore/com.smartisanos.appstore.AppStoreActivity}"
@@ -5103,7 +5098,7 @@
 
     <item
         component="ComponentInfo{com.sec.android.app.voicenote/com.sec.android.app.voicenote.main.VNMainActivity}"
-        drawable="voice_recorder" />
+        drawable="samsung_voice_recorder" />
 
     <item
         component="ComponentInfo{xyz.hanks.note/xyz.hanks.note.ui.activity.MainActivity}"

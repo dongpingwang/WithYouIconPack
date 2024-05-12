@@ -1186,6 +1186,12 @@
         title="All" />
 
     <item
+        drawable="samsungpay_gear" />
+
+    <item
+        drawable="vivo_market" />
+
+    <item
         drawable="pilipalax" />
 
     <item
@@ -9788,6 +9794,12 @@
 
     <item
         drawable="samsung_health" />
+
+    <item
+        drawable="samsung_market" />
+
+    <item
+        drawable="samsung_voice_recorder" />
 
     <item
         drawable="samsung_jkbsgl" />
