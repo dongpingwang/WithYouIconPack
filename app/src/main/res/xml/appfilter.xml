@@ -28302,7 +28302,7 @@
         img1="icon_upon" />
 
     <scale
-        factor="1.15" />
+        factor="0.8" />
 
     <item
         component=":LAUNCHER_ACTION_APP_DRAWER"
